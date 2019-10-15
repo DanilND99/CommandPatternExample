@@ -1,0 +1,7 @@
+c:\users\dan-g\source\repos\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+c:\users\dan-g\source\repos\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+c:\users\dan-g\source\repos\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+c:\users\dan-g\source\repos\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+c:\users\dan-g\source\repos\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+c:\users\dan-g\source\repos\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+c:\users\dan-g\source\repos\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
